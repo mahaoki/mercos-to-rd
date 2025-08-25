@@ -1,0 +1,39 @@
+[
+  {
+    "evento": "cliente.atualizado",
+    "dados": {
+        "id": 177,
+        "cep": "59050012",
+        "rua": "Av. Tenente Antõnio João",
+        "cnpj": "",
+        "tipo": "J",
+        "bairro": "Bucarein",
+        "cidade": "Joinville",
+        "emails": [
+            {
+                "tipo": "T",
+                "email": "teste@mercos.com",
+                "id": 4
+            }
+        ],
+        "estado": "SC",
+        "extras": [],
+        "numero": "",
+        "suframa": "",
+        "contatos": [],
+        "excluido": false,
+        "bloqueado": false,
+        "telefones": [],
+        "criador_id": 2,
+        "observacao": "",
+        "complemento": "",
+        "razao_social": "Cliente Teste",
+        "bloqueado_b2b": false,
+        "nome_fantasia": "",
+        "limite_credito": [],
+        "ultima_alteracao": "2025-05-29 10:04:07",
+        "inscricao_estadual": "",
+        "enderecos_adicionais": []
+      }
+  }
+]
